@@ -1,6 +1,6 @@
 # IGmLs
 
-IGmLs for HCD with Unregistered Images.
+IGmLs for Heterogeneous Change Detection with Unregistered Images.
 
 ![示例图片](/example.png)
 
