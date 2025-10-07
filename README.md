@@ -1,6 +1,6 @@
 # IGmLs
 
-IGmLs for Heterogeneous Change Detection with Unregistered Images.
+IGmLs for Heterogeneous Change Detection with Unregistered Images. This work is currently under review.
 
 ![示例图片](/example.png)
 
