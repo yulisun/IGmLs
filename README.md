@@ -23,10 +23,9 @@ If you use this code for your research, please cite our paper. Thank you!
 @article{SUN20260111,  
 title = {Iterative Global Mapping-Local Searching for Heterogeneous Change Detection with Unregistered Images},    
 journal = {International Journal of Computer Vision},  
-volume = {},  
-pages = {},  
+volume = {134},  
+pages = {1-22},  
 year = {2026},  
-issn = {},  
 doi = {https://doi.org/10.1007/s11263-025-02719-6},   
 author = {Yuli Sun and and Junzheng Wu and Han Zhang and Zhang Li and Lin Lei and Gangyao Kuang}  
 }
