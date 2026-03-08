@@ -27,7 +27,7 @@ volume = {134},
 pages = {1-22},  
 year = {2026},  
 doi = {https://doi.org/10.1007/s11263-025-02719-6},   
-author = {Yuli Sun and and Junzheng Wu and Han Zhang and Zhang Li and Lin Lei and Gangyao Kuang}  
+author = {Yuli Sun and Junzheng Wu and Han Zhang and Zhang Li and Lin Lei and Gangyao Kuang}  
 }
 
 ## Running
